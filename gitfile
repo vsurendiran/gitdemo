@@ -1,2 +1,13 @@
-TEst crating new file in github
-Added new line
+git --version
+git init - is used for new repository in your sever
+git clone
+git push
+git pull
+git add <filename>
+git status
+git commit -m "commit message" (Comments)
+git log
+git checkout
+git merge
+git log --oneline (to see the logid and commit message in single line)
+master => main branch
