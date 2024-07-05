@@ -1,9 +1,41 @@
+Launch 
+select OS
+select Memory - CPU, RAM, Storage
+Network
+Security
+Key pair
+CPU => load the application
+Free tier instance type => t2.micro
+key pair - suren76
+
+There are 2 types of instance in AWS
+1. system status 
+2. instance status
+
+ppk - putty private key
+pem - Privacy-Enhanced Mail
+
+
+Terminals
+---------
+Putty
+mobaxtream
+gitbash
+xshell
+aws cloud terminal
+
+sudo su - root
+
+yum install git -y
+
+
 git --version
-git init - is used for new repository in your sever
+git init - is used for new repository(directory) in your sever
 git clone
 git push
 git pull
 git add <filename>
+git add --all
 git status
 git commit -m "commit message" (Comments)
 git log
