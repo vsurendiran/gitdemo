@@ -61,4 +61,4 @@ PS C:\git_testing\gitdemo> git clone https://github.com/vsurendiran/gitdemo.git
 
 
 
-
+git remote add origin https://github.com/vsurendiran/git_newfolder.git
