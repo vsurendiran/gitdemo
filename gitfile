@@ -43,3 +43,22 @@ git checkout
 git merge
 git log --oneline (to see the logid and commit message in single line)
 master => main branch
+
+In command prompt
+======================
+C:\Users\Owner>git config --global user.name "vsurendiran"
+
+C:\Users\Owner>git config --global user.email "surendiranveda@gmail.com"
+
+Create one working folder in any directory "Git testing"
+
+Open visual code editor
+=======================
+PS C:\git_testing\gitdemo> git clone https://github.com/vsurendiran/gitdemo.git
+
+
+
+
+
+
+
